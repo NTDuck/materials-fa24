@@ -166,3 +166,5 @@ cython_debug/
 # otter-grader
 *.OTTER_LOG
 *.zip
+*.html
+*.pdf
