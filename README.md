@@ -1,3 +1,12 @@
+### Mental Notes
+```cmd
+python -m venv venv
+.\venv\Scripts\activate
+pip install notebook otter-grader
+jupyter notebook
+deactivate
+```
+
 # Data 8 Public Materials for Fall 2024
 
 This repository contains the publicly available materials used in the Data 8 Foundations of Data Science course during the Fall 2024 semester at UC Berkeley.
